@@ -4,7 +4,7 @@ import random
 name = "Akhil"
 
 # Question
-question = "Will I ever be a programmer?"
+question = "Will I ever be a good programmer?"
 
 # Answer
 answer = ""
